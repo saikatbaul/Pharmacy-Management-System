@@ -5,15 +5,13 @@ Department of Computer Science
 
 Term Project Proposal
 
-Course: OBJECT ORIENTED PROGRAMMING 2 (Summer 2019-20)
+Course: OBJECT ORIENTED PROGRAMMING 2 [D] (Summer 2019-20)
 
 Group Members: 3
 
 1) SAIKAT BAUL (18-36193-1)
 2) SAKIMUL KARIM ADAN (18-36622-1)
 3) MD. RATAN RANA (18-37631-1)
-
-Section: D
 
 Project Title: PHARMACY MANAGEMENT SYSTEM
 
