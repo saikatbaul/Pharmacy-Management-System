@@ -13,7 +13,7 @@ Section: D
 
 Project Title: PHARMACY MANAGEMENT SYSTEM
 
-Project Description: This project is focused on .
+Project Description: This project is focused on how a store officer of any phaemacy can manage his/her staffs. By this system, a store officer can include new staff to the system and also can remove from the system. The store officer can scarch staff, can manage medicines, can check individual sales and can also check total sales. Staff can search medicine, can add or remove medicine from order queue, can confirm the order, can prepare medicine bill and also can show individual sales.
 
 User_1: Store Officer
 
