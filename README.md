@@ -25,11 +25,11 @@ User_1: Store Officer
 
 User_2: Staff
 
-1)Search option on Medicine. 
-2)Crud operation on Order. 
-3)Order confrimation. 
-4)Prepare medicine bill. 
-5)Show own sales. 
+1) Search option on Medicine. 
+2) Crud operation on Order. 
+3) Order confrimation. 
+4) Prepare medicine bill. 
+5) Show own sales. 
 
 
 Requirements:
