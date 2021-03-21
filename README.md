@@ -1,11 +1,11 @@
 # Pharmacy-Management-System
-American International University Bangladesh 
+American International University-Bangladesh 
 
 Department of Computer Science 
 
-Term Project Proposal, Summer 2019-20
+Term Project Proposal
 
-Course: OBJECT ORIENTED PROGRAMMING 2 (GROUP-4)
+Course: OBJECT ORIENTED PROGRAMMING 2 (Summer 2019-20)
 
 Group Members: 3
 
